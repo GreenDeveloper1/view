@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/whistle1/static/css/main.c76f662a.css",
+    "main.js": "/whistle1/static/js/main.36b3c8d8.js",
+    "static/js/453.05d361ae.chunk.js": "/whistle1/static/js/453.05d361ae.chunk.js",
+    "static/media/hotel-room-booking-system.png": "/whistle1/static/media/hotel-room-booking-system.ad923dfee2ebf0137bb2.png",
+    "static/media/bullionbrother.png": "/whistle1/static/media/bullionbrother.923efe5ff4b2bcb66800.png",
+    "static/media/swimming.png": "/whistle1/static/media/swimming.886c300bc8886a700007.png",
+    "static/media/flying-carpet.png": "/whistle1/static/media/flying-carpet.0e0c035b606203989e8f.png",
+    "static/media/talent.jpg": "/whistle1/static/media/talent.b062fd1aab1b84f51014.jpg",
+    "static/media/broker-bewertungen.png": "/whistle1/static/media/broker-bewertungen.699ee48aa69bf05f5378.png",
+    "index.html": "/whistle1/index.html",
+    "main.c76f662a.css.map": "/whistle1/static/css/main.c76f662a.css.map",
+    "main.36b3c8d8.js.map": "/whistle1/static/js/main.36b3c8d8.js.map",
+    "453.05d361ae.chunk.js.map": "/whistle1/static/js/453.05d361ae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c76f662a.css",
+    "static/js/main.36b3c8d8.js"
+  ]
+}
