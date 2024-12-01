@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/whistle/static/css/main.c76f662a.css",
-    "main.js": "/whistle/static/js/main.abd36bb7.js",
-    "static/js/453.05d361ae.chunk.js": "/whistle/static/js/453.05d361ae.chunk.js",
-    "static/media/hotel-room-booking-system.png": "/whistle/static/media/hotel-room-booking-system.ad923dfee2ebf0137bb2.png",
-    "static/media/bullionbrother.png": "/whistle/static/media/bullionbrother.923efe5ff4b2bcb66800.png",
-    "static/media/swimming.png": "/whistle/static/media/swimming.886c300bc8886a700007.png",
-    "static/media/flying-carpet.png": "/whistle/static/media/flying-carpet.0e0c035b606203989e8f.png",
-    "static/media/talent.jpg": "/whistle/static/media/talent.b062fd1aab1b84f51014.jpg",
-    "static/media/broker-bewertungen.png": "/whistle/static/media/broker-bewertungen.699ee48aa69bf05f5378.png",
-    "index.html": "/whistle/index.html",
-    "main.c76f662a.css.map": "/whistle/static/css/main.c76f662a.css.map",
-    "main.abd36bb7.js.map": "/whistle/static/js/main.abd36bb7.js.map",
-    "453.05d361ae.chunk.js.map": "/whistle/static/js/453.05d361ae.chunk.js.map"
+    "main.css": "/GreenDeveloper1/whistle.github.io/static/css/main.c76f662a.css",
+    "main.js": "/GreenDeveloper1/whistle.github.io/static/js/main.fdf276cc.js",
+    "static/js/453.05d361ae.chunk.js": "/GreenDeveloper1/whistle.github.io/static/js/453.05d361ae.chunk.js",
+    "static/media/hotel-room-booking-system.png": "/GreenDeveloper1/whistle.github.io/static/media/hotel-room-booking-system.ad923dfee2ebf0137bb2.png",
+    "static/media/bullionbrother.png": "/GreenDeveloper1/whistle.github.io/static/media/bullionbrother.923efe5ff4b2bcb66800.png",
+    "static/media/swimming.png": "/GreenDeveloper1/whistle.github.io/static/media/swimming.886c300bc8886a700007.png",
+    "static/media/flying-carpet.png": "/GreenDeveloper1/whistle.github.io/static/media/flying-carpet.0e0c035b606203989e8f.png",
+    "static/media/talent.jpg": "/GreenDeveloper1/whistle.github.io/static/media/talent.b062fd1aab1b84f51014.jpg",
+    "static/media/broker-bewertungen.png": "/GreenDeveloper1/whistle.github.io/static/media/broker-bewertungen.699ee48aa69bf05f5378.png",
+    "index.html": "/GreenDeveloper1/whistle.github.io/index.html",
+    "main.c76f662a.css.map": "/GreenDeveloper1/whistle.github.io/static/css/main.c76f662a.css.map",
+    "main.fdf276cc.js.map": "/GreenDeveloper1/whistle.github.io/static/js/main.fdf276cc.js.map",
+    "453.05d361ae.chunk.js.map": "/GreenDeveloper1/whistle.github.io/static/js/453.05d361ae.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c76f662a.css",
-    "static/js/main.abd36bb7.js"
+    "static/js/main.fdf276cc.js"
   ]
 }
